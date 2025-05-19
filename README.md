@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Arthur, tenho 25 anos e moro no estado de São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba e estou estudando tecnologias com foco no Front-End.
+Olá! Meu nome é Arthur, tenho 25 anos e moro em Osasco - SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba e estou estudando tecnologias com foco no Front-End.
 
 <p align="left">
    <div> 
