@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in magna non sem vehicula fringilla sit amet vitae massa. Vestibulum auctor non massa vitae fringilla. Mauris rutrum consequat dolor, nec cursus ex bibendum congue.
+Olá! Meu nome é Arthur, tenho 25 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba e estou estudando tecnologias com foco no Front-End.
 
 <p align="left">
    <div> 
