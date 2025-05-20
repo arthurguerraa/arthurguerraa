@@ -1,4 +1,4 @@
-## Arthur Guerra
+## Arthur Guerra de Souza
 
 **`Desenvolvedor Front-End`**
 
