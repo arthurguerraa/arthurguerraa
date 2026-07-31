@@ -31,10 +31,6 @@ Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **Rea
 
 ---
 
-### 📊 Estatísticas
-
----
-
 ### 🔥 Streak
 
 <p align="center">
