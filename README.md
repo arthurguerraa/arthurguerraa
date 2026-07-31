@@ -33,20 +33,12 @@ Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **Rea
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right=10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arthurguerraa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguerraa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 🔥 Streak
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=arthurguerraa&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
