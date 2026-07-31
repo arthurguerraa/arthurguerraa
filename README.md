@@ -28,11 +28,12 @@ Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **Rea
 <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img alt="Figma" title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </p>
-<br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
+---
 
 ### 🔥 Streak
 
