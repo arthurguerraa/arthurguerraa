@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Arthur e moro em Osasco - SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Carapicuíba e estou estudando tecnologias com foco no Front-end.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba** e estou focado no desenvolvimento Front-End.
+
+Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **React**, buscando criar interfaces modernas, responsivas e com uma ótima experiência para o usuário.
 
 <p align="left">
    <div> 
@@ -36,7 +38,7 @@ Olá! Meu nome é Arthur e moro em Osasco - SP. Atualmente estou cursando Análi
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right=10px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurguerraa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
