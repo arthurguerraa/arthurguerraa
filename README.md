@@ -14,7 +14,7 @@ Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **Rea
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p align="left">
 <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -31,7 +31,7 @@ Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **Rea
 
 ---
 
-### 🔥 Streak
+### Streak
 
 <p align="center">
   <img
