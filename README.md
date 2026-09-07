@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba** e estou focado no desenvolvimento Front-End.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba** e estou focado no desenvolvimento Full Stack.
 
 Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **React**, buscando criar interfaces modernas, responsivas e com uma ótima experiência para o usuário.
 
