@@ -4,7 +4,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba** e estou focado no desenvolvimento Full Stack.
 
-Atualmente estudo tecnologias como **HTML, CSS, JavaScript, TypeScript** e **React**, buscando criar interfaces modernas, responsivas e com uma ótima experiência para o usuário.
+Atualmente estudo tecnologias como **React, TypeScript, JavaScript, Node.js** e **MySQL**, buscando criar interfaces modernas, responsivas e com uma ótima experiência para o usuário de ponta-a-ponta.
 
 <p align="left">
    <div> 
