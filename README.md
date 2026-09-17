@@ -1,6 +1,6 @@
 ## Arthur Guerra de Souza
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Carapicuíba** e estou focado no desenvolvimento Full Stack.
 
